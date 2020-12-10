@@ -6,3 +6,5 @@ making some changes
 committing the changes
 pushing it back to
 remote repository
+
+totally finished
